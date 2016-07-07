@@ -6,7 +6,7 @@ package Exercise1;
 
 public class Test {
 
-    public int factorial(int num) {
+    public int function(int num) {
 
         int[] arr = new int[num];
         int result = 1;
@@ -23,10 +23,7 @@ public class Test {
 
     public static void main(String[] args) {
         Test e = new Test();
-        int result = e.factorial(4);
-
+        int result = e.function(5);
         System.out.println(result);
     }
-
-
 }
