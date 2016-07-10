@@ -36,7 +36,6 @@ public class StrangeStuff {
         this.size = (size > 0 ? size : 3);
     }
 
-
     public void fillArray(){
         putNumber();
 
@@ -125,7 +124,6 @@ public class StrangeStuff {
             }
         }
     }
-
 
     private int whatsUp(){
         if(size == 2 &&  num == 4) {

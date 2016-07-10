@@ -13,7 +13,7 @@ package Exercise2;
 
 public class Test {
     public static void main(String[] args) {
-        StrangeStuff t = new StrangeStuff(15);
+        StrangeStuff t = new StrangeStuff(10);
         t.fillArray();
         t.print();
     }
