@@ -1,4 +1,4 @@
-package Exercise4;
+package Cycles.Exercise4;
 import java.util.*;
 
 /* Имеется неупорядоченный массив из n различных целых чисел от 0 до n

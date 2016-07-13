@@ -1,4 +1,4 @@
-package Exercise2;
+package Cycles.Exercise2;
 
 /**
  * Составить программу последовательного заполнения квадратного
