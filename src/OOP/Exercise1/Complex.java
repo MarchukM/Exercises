@@ -18,8 +18,6 @@ public class Complex {
         im = i;
     }
 
-
-
     public double getRe(){
         return re;
     }
@@ -27,7 +25,6 @@ public class Complex {
     public double getIm(){
         return im;
     }
-
 
     public Complex addition(Complex a){
         return new Complex(re + a.getRe(), im + a.getIm());

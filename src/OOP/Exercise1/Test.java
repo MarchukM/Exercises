@@ -8,7 +8,7 @@ package OOP.Exercise1;
 
 public class Test {
     public static void main(String[] args) {
-        
+
         Complex z1 = new Complex(2, -2);
         Complex z2 = new Complex(2, 3);
 
