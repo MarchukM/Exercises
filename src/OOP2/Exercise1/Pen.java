@@ -1,4 +1,4 @@
-package OOP2.Exercise1;
+package oop2.exercise1;
 
 /**
  * Created by maxim on 20.07.2016.

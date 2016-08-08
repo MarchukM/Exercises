@@ -1,4 +1,4 @@
-package OOP2.Exercise5;
+package oop2.exercise5;
 
 public enum Subject {
     HISTORY,

@@ -1,4 +1,4 @@
-package OOP2.Exercise3;
+package oop2.exercise3;
 
 /**
  * Created by maxim on 21.07.2016.

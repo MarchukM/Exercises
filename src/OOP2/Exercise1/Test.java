@@ -1,4 +1,4 @@
-package OOP2.Exercise1;
+package oop2.exercise1;
 
 /**
  * Задание 1. Принципы ООП, простейшие классы и объекты

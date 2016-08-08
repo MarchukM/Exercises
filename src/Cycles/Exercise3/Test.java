@@ -1,4 +1,4 @@
-package Cycles.Exercise3;
+package cycles.exercise3;
 import java.util.Random;
 import java.util.Arrays;
 /**

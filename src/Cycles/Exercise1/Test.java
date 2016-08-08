@@ -1,4 +1,4 @@
-package Cycles.Exercise1;
+package cycles.exercise1;
 
 /**
  * За один цикл вычислить значение функции F(n) = 1!*2!*3!...*n!., где n! = 1*2*3*…*n. /без рекурсии/

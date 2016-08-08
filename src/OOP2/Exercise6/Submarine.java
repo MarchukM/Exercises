@@ -1,4 +1,4 @@
-package OOP2.Exercise6;
+package oop2.exercise6;
 
 /**
  * Class represents a submarine.
@@ -10,7 +10,7 @@ public class Submarine {
     private Engine engine;
 
     /**
-     * @param name name of submarine
+     * @param name name of submarine.
      */
     public Submarine(String name){
         this.name = name;
@@ -23,7 +23,7 @@ public class Submarine {
      */
     public class Engine{
         /**
-         * Start engine
+         * Start engine.
          */
         public void startEngine(){
             System.out.println("Submarine " +  "\"" + name + "\"" + " engine started!" );

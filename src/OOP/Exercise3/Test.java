@@ -1,4 +1,4 @@
-package OOP.Exercise3;
+package oop.exercise3;
 
 
 /**

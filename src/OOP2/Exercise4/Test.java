@@ -1,9 +1,7 @@
-package OOP2.Exercise4;
+package oop2.exercise4;
 
-import java.util.Collections;
-import OOP.Exercise2.*;
-import OOP2.Exercise2.StationeryList;
-import OOP2.Exercise3.*;
+import oop2.exercise2.StationeryList;
+import oop2.exercise3.*;
 
 /**
  * Задание 4. Интерфейсы

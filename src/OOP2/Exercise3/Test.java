@@ -1,4 +1,4 @@
-package OOP2.Exercise3;
+package oop2.exercise3;
 
 /**
  * Задание 3. Наследование

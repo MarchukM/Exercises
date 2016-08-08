@@ -1,4 +1,4 @@
-package OOP.Exercise3;
+package oop.exercise3;
 
 /**
  * Создать класс Man (человек), с полями: имя, возраст, пол и вес.

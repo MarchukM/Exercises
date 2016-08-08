@@ -1,4 +1,4 @@
-package OOP.Exercise5;
+package oop.exercise5;
 
 /**
  * Необходимо реализовать иерархию цветов (для примера, пусть это

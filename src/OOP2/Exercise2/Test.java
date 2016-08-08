@@ -1,7 +1,6 @@
-package OOP2.Exercise2;
+package oop2.exercise2;
 
-import OOP2.Exercise3.*;
-import java.util.ArrayList;
+import oop2.exercise3.*;
 
 /**
  * Напишите приложение, позволяющее вести учет

@@ -1,6 +1,4 @@
-package OOP.Exercise1;
-
-import java.awt.image.CropImageFilter;
+package oop.exercise1;
 
 /**
  *  Составить описание класса для представления комплексных чисел с возможностью задания

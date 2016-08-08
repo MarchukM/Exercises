@@ -1,6 +1,4 @@
-package OOP.Exercise4;
-
-import com.sun.org.apache.bcel.internal.generic.NEW;
+package oop.exercise4;
 
 public class Test {
     public static void main(String[] args) {

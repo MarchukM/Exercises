@@ -1,4 +1,4 @@
-package OOP2.Exercise6;
+package oop2.exercise6;
 
 public class Test {
     public static void main(String[] args) {

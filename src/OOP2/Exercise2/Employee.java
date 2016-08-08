@@ -1,6 +1,6 @@
-package OOP2.Exercise2;
+package oop2.exercise2;
 
-import OOP2.Exercise3.Stationery;
+import oop2.exercise3.Stationery;
 
 import java.util.ArrayList;
 
